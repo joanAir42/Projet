@@ -1,12 +1,12 @@
 {
-    "contents" : "---\ntitle: \"TS_functions\"\nauthor: \"André Joan & Frédéric Verpillat\"\ndate: \"Tuesday, December 09, 2014\"\noutput: pdf_document\n---\n\nDTW comparison between two time series.\n\n```{r}\nlibrary(dtw)\n\ndistance <- function(t1,t2){\n  return(dtw(t1,t2))\n}\n\n```\n",
+    "contents" : "---\ntitle: \"TS_functions\"\nauthor: \"AirJo42\"\ndate: \"Tuesday, December 09, 2014\"\noutput: pdf_document\n---\n\nDTW comparison between two time series.\n\n```{r}\nlibrary(dtw)\n\ndistance <- function(t1,t2){\n  return(dtw(t1,t2))\n}\n\n```\n",
     "created" : 1418121669411.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2788064531",
+    "hash" : "3302381395",
     "id" : "E7E091A",
-    "lastKnownWriteTime" : 1418121799,
+    "lastKnownWriteTime" : 1418121975,
     "path" : "~/R/RepoGit/TS_functions.Rmd",
     "project_path" : "TS_functions.Rmd",
     "properties" : {
